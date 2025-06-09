@@ -1,4 +1,4 @@
 # JavaProjects
-This is my java repository. It contains several small projects that i have developed while learning Java.
+This is my Java repository, showcasing several small projects I've developed as part of my learning journey.
 <br>
 Author - Prem Sagar
